@@ -1,4 +1,4 @@
-GAMEZONE - PRÁCTICA COMPLETA DSY1105 EP1
+GAMEZONE - EVALUACION DSY1105-PRIVERT
 
 Contenido:
 - Kotlin 1.9.24
@@ -18,9 +18,9 @@ Contenido:
 Abrir:
 1. Abra Android Studio.
 2. Seleccione Open.
-3. Abra la carpeta GameZone_Evaluacion_Practica.
+3. Abra la carpeta DSY305
 4. Espere la sincronización de Gradle.
 5. Ejecute Main.kt.
 
 IMPORTANTE:
-Este proyecto está pensado como material de práctica y estudio.
+Este proyecto corresponde a la Evaluación Parcial 1 de DSY1105, Sistema GameZone desarrollado en Kotlin.
